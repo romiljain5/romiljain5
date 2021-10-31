@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Romil</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />,  I'm Romil Jain</h1>
 <h3 align="center">A passionate Software Developer and Graphic Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainromil56&label=Profile%20views&color=0e75b6&style=flat" alt="jainromil56" /> </p>
