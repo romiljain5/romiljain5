@@ -46,7 +46,7 @@
 <!--Github stats-->
 <img src="https://github-readme-stats.vercel.app/api?username=jainromil56&show_icons=true&theme=dark"/>
 
-<br/><br/>
+<br/>
 <!-- Most languages used-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainromil56&layout=compact"/>
 
