@@ -22,11 +22,11 @@
   💻 Connect with me on:
 </h3>
 
-<a href="https://www.linkedin.com/in/romil-jain123/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://twitter.com/Romil_Code"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://www.linkedin.com/in/romil-jain123/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://github.com/jainromil56/"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://jainromil56.github.io/home/"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin:3px 0"/></a>
+<a href="https://www.linkedin.com/in/romil-jain123/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " style="margin:3px 0"/></a>
+<a href="https://twitter.com/Romil_Code" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " style="margin:3px 0"/></a>
+<a href="https://www.linkedin.com/in/romil-jain123/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " style="margin:3px 0"/></a>
+<a href="https://github.com/jainromil56/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " style="margin:3px 0"/></a>
+<a href="https://jainromil56.github.io/me/" target="_blank"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin:3px 0"/></a>
 
 
 <br/>
