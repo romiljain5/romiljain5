@@ -92,7 +92,8 @@
 </tr>
 <tr>
 <th><img align="center" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" style="margin:3px 0"/></th>
-<th><img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white " style="margin:3px 0"/></th>
+<th><img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" style="margin:3px 0"/></th>
+<th><img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin:3px 0"/></th>
 </tr>
 </table>
 
