@@ -1,14 +1,30 @@
-<h2>Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h2>Hey their, I'm Romil Jain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="35"
          width="35" />,
   
 </h2>
-<h4>
-  📌  I'm Romil Jain, Software developer and Graphic Designer. I love coding and I work as a MERN stack developer. I am very flexible and adaptive to learning new things.
-  <br/><br/>
- 📌  I am also working as a graphic designer since 2018, on many platforms such as DesignContest.com, Fiverr.com, Designcrowd.com and you can see my best works on my Behance portfolio
-</h4>
+
+<p>
+<a href="https://www.linkedin.com/in/romil-jain123/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " style="margin:3px 0"/></a>
+         
+<a href="https://twitter.com/Romil_Code" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " style="margin:3px 0"/></a>
+         
+<a href="https://www.instagram.com/romil_jain99/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " style="margin:3px 0"/></a>
+         
+<a href="https://github.com/jainromil56/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " style="margin:3px 0"/></a>
+         
+<a href="https://www.behance.net/romiljain2"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white " style="margin:3px 0"/></a>
+         
+<a href="https://jainromil56.github.io/me/" target="_blank"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin:3px 0"/></a>
+<p/>
+
+<br/><br/>
+
+- 🔭 I’m currently working as a Junior SDE at [Qualitia](http://qualitiasoft.com)
+- 🌱 I also enjoy Programming and UI/UX Designing 
+- 💬 If you want to discuss on any topic related to above mentioned topic, ping me
+- 📫 How to reach me: [@RomilJai](https://twitter.com/romiljai)
 
 <!--Profile views-->
 <br/>
@@ -17,39 +33,13 @@
 <img src="https://komarev.com/ghpvc/?username=jainromil56&color=blueviolet " height="30px" style="margin:3px 0"/>
 </p>
 
-
-<h3 align="left">
-  💻 Connect with me on:
-</h3>
-
-<a href="https://www.linkedin.com/in/romil-jain123/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://twitter.com/Romil_Code" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://www.instagram.com/romil_jain99/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://github.com/jainromil56/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " style="margin:3px 0"/></a>
-<a href="https://jainromil56.github.io/me/" target="_blank"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin:3px 0"/></a>
-
-
+<!--Github stats-->
+![Romil Jain Github Stats](https://github-readme-stats.vercel.app/api?username=jainromil56&show_icons=true&include_all_commits=true&theme=radical)
 <br/>
-<h3 align="left">
-  🤓 Connect with me on (Graphic Design):
-</h3>
 
-<a href="https://www.behance.net/romiljain2"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white " style="margin:3px 0"/></a>
+![Romil's skill graph](https://github-readme-stats.vercel.app/api/top-langs/?username=jainromil56&layout=compact&theme=radical)
 
 <h3>
-  📌 GitHub Stats
-</h3>
-
-
-<!--Github stats-->
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=jainromil56&show_icons=true&theme=dark"/>
-
-<!-- Most languages used-->
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainromil56&layout=compact"/>
-         
-<br/>
-
-<h3 align="left">
  🧰 Frontend Tools:
 </h3>
 
