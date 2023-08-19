@@ -12,11 +12,11 @@
          
 <a href="https://www.instagram.com/romil_jain99/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " style="margin:3px 0"/></a>
          
-<a href="https://github.com/jainromil56/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " style="margin:3px 0"/></a>
+<a href="https://github.com/romiljain5/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " style="margin:3px 0"/></a>
          
 <a href="https://www.behance.net/romiljain2"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white " style="margin:3px 0"/></a>
          
-<a href="https://jainromil56.github.io/me/" target="_blank"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin:3px 0"/></a>
+<a href="https://romiljain5.github.io/me/" target="_blank"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin:3px 0"/></a>
 <p/>
 
 <br/><br/>
@@ -30,14 +30,14 @@
 <br/>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=jainromil56&color=blueviolet " height="30px" style="margin:3px 0"/>
+<img src="https://komarev.com/ghpvc/?username=romiljain5&color=blueviolet " height="30px" style="margin:3px 0"/>
 </p>
 
 <!--Github stats-->
-![Romil Jain Github Stats](https://github-readme-stats.vercel.app/api?username=jainromil56&show_icons=true&include_all_commits=true&theme=radical)
+![Romil Jain Github Stats](https://github-readme-stats.vercel.app/api?username=romiljain5&show_icons=true&include_all_commits=true&theme=radical)
 <br/>
 
-![Romil's skill graph](https://github-readme-stats.vercel.app/api/top-langs/?username=jainromil56&layout=compact&theme=radical)
+![Romil's skill graph](https://github-readme-stats.vercel.app/api/top-langs/?username=romiljain5&layout=compact&theme=radical)
 
 <h3>
  🧰 Frontend Tools:
