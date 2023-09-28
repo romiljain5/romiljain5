@@ -35,8 +35,6 @@
 
 <!--Github stats-->
 ![Romil Jain Github Stats](https://github-readme-stats.vercel.app/api?username=romiljain5&show_icons=true&include_all_commits=true&theme=radical)
-<br/>
-
 ![Romil's skill graph](https://github-readme-stats.vercel.app/api/top-langs/?username=romiljain5&layout=compact&theme=radical)
 
 <h3>
