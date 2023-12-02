@@ -37,6 +37,11 @@
 ![Romil Jain Github Stats](https://github-readme-stats.vercel.app/api?username=romiljain5&show_icons=true&include_all_commits=true&theme=radical)
 ![Romil's skill graph](https://github-readme-stats.vercel.app/api/top-langs/?username=romiljain5&layout=compact&theme=radical)
 
+<!-- Hacktoberfest badges-->
+<h2>Hacktoberfest</h2>
+
+[![An image of @romiljain5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romiljain5)](https://holopin.io/@romiljain5)
+
 <h3>
  🧰 Frontend Tools:
 </h3>
